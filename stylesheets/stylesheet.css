@@ -456,10 +456,10 @@ header {
 }
 
 header h1 {
-  width: 540px;
+  width: 710px;
   margin-top: 0;
   margin-bottom: 0.2em;
-  font-size: 72px;
+  font-size: 58px;
   font-weight: normal;
   line-height: 1;
   color: #fff;
@@ -782,10 +782,10 @@ footer a:hover {
     width: 740px;
   }
   header h1, header h2 {
-    width: 340px;
+    width: 480px;
   }
   header h1 {
-    font-size: 60px;
+    font-size: 40px;
   }
   header h2 {
     font-size: 30px;
